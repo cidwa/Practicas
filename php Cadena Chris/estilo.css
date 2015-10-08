@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #4ea1f4;
+}
+form{
+    margin-top: 20%;
+}
+textarea{
+    resize: none;
+}
+p{
+    font-size: 2em;
+    color: antiquewhite;
+}
